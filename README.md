@@ -22,7 +22,7 @@ pod "KVTextField"
 
 ## Author
 
-Kirit Vaghela, kirit.vaghela@azilen.com
+Kirit Vaghela, kirit15788@gmail.com
 
 ## License
 
