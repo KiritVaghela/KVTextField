@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'KVTextField_Example' do
-  pod 'KVTextField', :path => '../'
+  pod 'KVTextField', :path => '/Users/kiritvaghela/KVTextField'
 
   target 'KVTextField_Tests' do
     inherit! :search_paths
